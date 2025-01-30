@@ -3,11 +3,11 @@
 
 
 
-<a href="[https://git.io/typing-svg](https://i.ibb.co/W4mjYHwL/lyrics-img.jpg)"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=hello👋+friend+welcome✊;here+is+my+repo🫦;fork+and+star;🫂KEEP+USING+LUCKY+MD" alt="Typing SVG" /></a>
+<a href="[https://git.io/typing-svg](https://i.ibb.co/W4mjYHwL/lyrics-img.jpg)"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=hello👋+friend+welcome✊;here+is+my+repo🫦;fork+and+star;🫂KEEP+USING+ELITE+MD" alt="Typing SVG" /></a>
   </p>
  
   
-<a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
+<a href="(https://whatsapp.com/channel/0029VazeyYx35fLxhB5TfC3D)">
  <img alt="ELITE MD" height="300" src="https://files.catbox.moe/bdjmrd.jpg">
  
   
