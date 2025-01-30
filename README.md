@@ -8,7 +8,7 @@
  
   
 <a href="(https://whatsapp.com/channel/0029VazeyYx35fLxhB5TfC3D)">
- <img alt="ELITE MD" height="300" src="https://files.catbox.moe/bdjmrd.jpg">
+ <img alt="ELITE MD" height="300" src="(https://mastertech-md.imgbb.com/)">
  
   
 </h1> 
