@@ -14,7 +14,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing svg.demolab.com font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+MUSTAFFA-MD+MADE+IN+KENYA+🎖️🕷️👌" alt="THIS IS MUSTAFFA MD MADE IN KENYA 🎖️🕷️  PLEASE DON'T FORGET TO FORK THE REPO AND LEAVE A ⭐ STAR🕸️" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing svg.demolab.com font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+MUSTAFFA-MD+MADE+IN+KENYA+🎖️🕷️👌" alt="THIS IS MASTERTECH MD MADE IN KENYA 🎖️🕷️  PLEASE DON'T FORGET TO FORK THE REPO AND LEAVE A ⭐ STAR🕸️" /></a>
 
 
 
@@ -24,7 +24,7 @@
 #### SETUP 
 
 
-[`FORK`](https://github.com/Mustaffamkm/MUSTAFFAMK-/fork)
+[`FORK`https://github.com/MASTERPEACE254ELITE/Mastertech_md-/fork]
 
 
  
