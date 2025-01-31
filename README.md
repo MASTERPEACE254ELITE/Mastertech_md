@@ -1,6 +1,5 @@
 #🕷️ MASTERTECH-MD 🕷️
-<a href="https://ibb.co/chn24YJF'/></a>
-
+<a href="https://ibb.co/C3RDTwZf"><img src="https://i.ibb.co/C3RDTwZf/lyrics-img.jpg" alt="lyrics-img" border="0"></a>
 
 <p align="center">                                                  .  🕷️MASTERTECH--MD🕷️
   
