@@ -1,6 +1,5 @@
 #🕷️ MASTERTECH-MD 🕷️
-<a href="https://ibb.co/zfd01dv"><img src="https://i.ibb.co/YtQQdJZ/IMG-20250118-WA0052.jpg" alt="1728892250720" border="0"></a>
-<a><img src='https://i.imgur.com/1hupaLL.img.gif'/></a><a><img src='https://i.imgur.com/1hupaLL.img'/></a>
+<a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D61559135137698&tbnid=gmFm-9b5eGhLCM&vet=10CAYQxiAoBWoXChMI-Jbkw7agiwMVAAAAAB0AAAAAEHg..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fp%2FHire-a-professional-hacker-pro-61559135137698%2F&docid=XKh1806gqzbNzM&w=405&h=405&itg=1&q=hacker%20bot&ved=0CAYQxiAoBWoXChMI-Jbkw7agiwMVAAAAAB0AAAAAEHg#imgrc=w7J_IjJNSVbGiM&imgdii=bo8V05p73uM-xM'/></a>
 
 
 <p align="center">                                                  .  🕷️MASTERTECH--MD🕷️
