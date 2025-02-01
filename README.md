@@ -6,9 +6,6 @@
   
 <p align="center">                                                  . 
  
-🕷️MASTERTECH--MD🕷️
-  
-
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VazeyYx35fLx35fLxhB5TfC3D">
