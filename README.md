@@ -1,5 +1,5 @@
 🕷️ MASTERTECH-MD 🕷️
-<[url=https://ibb.co/zfd01dv][img]https://i.ibb.co/LpK2MK7/1728892250720.jpg[/img][/url] align="center>                                                                                                                     .                <>
+[url=https://ibb.co/zfd01dv][img]https://i.ibb.co/zfd01dv/1728892250720.jpg[/img][/url]                                                                                                  .                <>
 
 
 🕷️MASTERTECH--MD🕷️
