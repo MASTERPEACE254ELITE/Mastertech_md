@@ -24,7 +24,7 @@
 #### SETUP 
 
 
-[`FORK`https://github.com/MASTERPEACE254ELITE/Mastertech_md-/fork]
+[`FORK`https://github.com/MASTERPEACE254ELITE/Mastertech_md/fork]
 
 
  
